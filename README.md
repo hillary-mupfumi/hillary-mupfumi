@@ -235,6 +235,5 @@ We believe in the power of community and collaboration. Head over to our [Discus
 
 
 ## Feedback and Contact
-I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at sukhmansinghbhogal@gmail.com
+I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at hmupfumi@gmail.com
 
-Enjoy exploring my data science projects!
