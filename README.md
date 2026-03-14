@@ -9,7 +9,7 @@ As a Business Analytics student at Hult, I’ve pivoted from building tools to u
 1. [Telecom Customer Churn Prediction](https://github.com/hillary-mupfumi/data-science-repo/tree/main/Customer%20Churn%20Prediction-%20Telecoms)
     - **Description:** The aim of this project is to analyze customer demographics, services, tenure and other variables to predict whether a particular customer will churn or not.
     - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and K Nearest Neighbor Classifier.
-    - **Results:** The random forest classifier model performed best with 82% accuracy
+    - **Results:** Recall was used since the class was imbalanced. The decision was the best model achieving a recall score of 64%.
 
 
 
